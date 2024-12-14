@@ -1,0 +1,25 @@
+Case: testing tasks getting preempted in SRTF
+
+FCFS:
+============================================================
+Average waiting time:    42.50
+Average response time:   42.50
+Average turnaround time: 95.00
+Overall CPU usage:       100.00%
+============================================================
+
+SRTF:
+============================================================
+Average waiting time:    25.00
+Average response time:   20.00
+Average turnaround time: 77.50
+Overall CPU usage:       100.00%
+============================================================
+
+RR (quantum = 17):
+============================================================
+Average waiting time:    48.75
+Average response time:   17.00
+Average turnaround time: 101.25
+Overall CPU usage:       100.00%
+============================================================

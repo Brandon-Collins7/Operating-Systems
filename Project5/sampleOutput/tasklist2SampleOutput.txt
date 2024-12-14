@@ -1,0 +1,25 @@
+Case: all tasks arrive at start (time 0)
+
+FCFS:
+============================================================
+Average waiting time:    595.00
+Average response time:   595.00
+Average turnaround time: 850.00
+Overall CPU usage:       100.00%
+============================================================
+
+SRTF:
+============================================================
+Average waiting time:    305.00
+Average response time:   305.00
+Average turnaround time: 560.00
+Overall CPU usage:       100.00%
+============================================================
+
+RR (quantum = 31):
+============================================================
+Average waiting time:    639.80
+Average response time:   62.00
+Average turnaround time: 894.80
+Overall CPU usage:       100.00%
+============================================================

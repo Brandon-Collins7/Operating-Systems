@@ -1,0 +1,23 @@
+FCFS:
+============================================================ 
+Average waiting time:    14.17 
+Average response time:   14.17 
+Average turnaround time: 21.00 
+Overall CPU usage:       100.00% 
+============================================================ 
+
+SRTF:
+============================================================ 
+Average waiting time:    10.50 
+Average response time:   9.00                                                                                                                          
+Average turnaround time: 17.33 
+Overall CPU usage :      100.00 % 
+============================================================
+
+RR (quantum = 4):
+============================================================ 
+Average waiting time:    22.00 
+Average response time:   8.33 
+Average turnaround time: 28.83 
+Overall CPU usage:       100.00% 
+============================================================
