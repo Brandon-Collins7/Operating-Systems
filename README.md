@@ -7,3 +7,5 @@ See project specifications in `specs`
 - `kern/include/synch.h`
 ### Project 4 - Concurrency: Cat and Mouse Semaphores
 - `kern/asst1/catsem.c`
+### Project 5 - CPU Scheduling
+- `Project5`
